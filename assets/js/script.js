@@ -1,6 +1,6 @@
 $(document).ready(function () {
-  var APIKey = "d6ab865b32d84e9ca4e3a42e1135f832";
-  var weatherAPIKey = "a518a026feaedaffc332be5dc7ca9090";
+  var APIKey = "";
+  var weatherAPIKey = "";
 
   var locationId = "";
   function getPlacesData(placeName) {
