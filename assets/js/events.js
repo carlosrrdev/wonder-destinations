@@ -3,8 +3,8 @@ var searchResultsEl = document.getElementById("search-results");
 var eventsNearMeEl = document.getElementById("near-me");
 var eventsForm = document.getElementById("events-form");
 
-var apiID = "MjY3Mzk1NjZ8MTY1MTAxNzc0NS41MDA4MjU2";
-var geoApiKey = "6beb1000c454436794b7f17b1bcae1f5";
+var apiID = "";
+var geoApiKey = "";
 var geoApiUrl = "https://api.opencagedata.com/geocode/v1/json";
 
 function createElement(elementType, args) {
