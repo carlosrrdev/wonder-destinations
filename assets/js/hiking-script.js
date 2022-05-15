@@ -40,7 +40,7 @@ var getTrailData = function (cityName, stateName) {
     method: "GET",
     headers: {
       "X-RapidAPI-Host": "trailapi-trailapi.p.rapidapi.com",
-      "X-RapidAPI-Key": "18d3b9654cmsha5ebf2c1065fd78p175daajsn36225a7c99f6",
+      "X-RapidAPI-Key": "",
     },
   };
 
